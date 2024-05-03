@@ -39,29 +39,5 @@ print("f = ", f)
 
 # TOP CÁC TỪ KHÓA KHÔNG ĐƯỢC ĐẶT THEO HÀM
 '''
-AND
-- Dùng trong câu lệnh điều kiện, dùng để lấy so sánh của cả 2 biến
+AND - AS - BREAK - CLASS - CONTINUE - DEF - ELIF - ELSE - IF - FALSE - FOR - GLOBAL - IMPORT - IN - IS - NOT - OR - RETURN - TRUE - TRY - WHILE
 '''
-so1, so2 = 4, 3
-if so1 > so2 and so1 < 10:
-    print(f"{so1} lớn hơn {so2} và bé hơn 10")
-else:
-    print(f"{so1} đéo ổn định")
-
-
-'''
-AS
-- Dùng để bí danh chỉ định thay cho tên, hay dùng trong import
-'''
-import os as m
-
-'''
-BREAK
-- Phá vỡ vòng lặp ngay lập tức
-'''
-array = [1, 2, 3, 4, 5]
-for number in array:
-    if(number == 4):
-        print(f"Vòng lặp đã bị phá vỡ khi biến number trả về là số {number}")
-        break
-
