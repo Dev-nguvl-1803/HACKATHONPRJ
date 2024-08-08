@@ -1,2 +1,2 @@
 # HACKATHONPRJ (ĐÃ DỪNG HOẠT ĐỘNG)
-Hackathon Project
+Hackathon Project về chủ đề Generative AI
